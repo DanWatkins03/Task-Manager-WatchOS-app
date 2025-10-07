@@ -1,0 +1,211 @@
+taskType,dateTime,duration,location,title,description,priority,contextLocation
+Work,2025-09-25T08:45,150,Work,Close fiscal books,End-of-period reconciliation — CRITICAL,High,Gym
+Work,2025-10-06T22:00,60,Work,Draft proposal outline (revision),Important but not urgent; prepare structure for next week,Medium,Home
+Home,2025-10-08T07:30,75,Home,Plan weekend chores,Split tasks over two days,Medium,Home
+Leisure,2025-09-27T13:30,40,Other,Browse social media (bonus),Catch up on friends,Low,Other
+Home,2025-09-25T14:15,20,Home,Fold laundry,Quick fold session,Low,Home
+Work,2025-09-30T20:30,120,Work,Prepare board meeting brief (EOD),Finalize slides; last-minute changes expected — URGENT,High,Home
+Home,2025-10-05T06:45,40,Home,Organize junk drawer (bonus),Quick declutter,Low,Other
+Leisure,2025-09-29T21:45,50,Other,Take a walk in park,Light stroll,Low,Other
+Work,2025-09-28T15:00,105,Other,Code review for release (final pass),Time-sensitive; unblock deployment — URGENT,High,Park
+Leisure,2025-10-06T18:45,35,Other,Try a short yoga flow,Gentle routine,Low,Clinic
+Leisure,2025-09-29T22:00,25,Home,Watch stand-up,Comedy break,Low,Home
+Work,2025-10-02T06:30,135,Work,Incident postmortem write-up (EOD),Leadership review today — CRITICAL,High,Work
+Work,2025-10-04T17:45,55,Work,Prepare team retro notes (outline),Summarize lessons; share with team,Medium,Work
+Work,2025-10-04T07:00,15,Work,Draft Q&A for webinar,Prepare likely questions,Medium,Work
+Work,2025-10-09T07:00,180,Work,Prepare board meeting brief,Finalize slides; last-minute changes expected — CRITICAL,High,Work
+Home,2025-10-09T18:15,40,Home,Reorganize closet,"Sort, donate, label boxes",Medium,Home
+Home,2025-09-26T14:30,60,Home,Assemble donation box,Clothes and books,Medium,Home
+Other,2025-09-27T17:30,60,Other,Clean phone screen,Wipe and sanitize,Low,Other
+Work,2025-09-29T15:30,75,Work,Escalated SLA breach,Resolve outage penalties — URGENT,High,Work
+Work,2025-10-09T08:30,105,Work,Finalize presentation deck for client (EOD),Deadline today—review and submit to manager ASAP — ASAP,High,Work
+Work,2025-10-09T11:00,90,Other,Customer renewal negotiation,High risk account; urgent call,High,Gym
+Leisure,2025-10-01T07:30,50,Other,Browse social media (low energy),Catch up on friends,Low,Other
+Home,2025-09-26T16:00,120,Home,Sort photo library (outline),Remove duplicates; add albums,Medium,Home
+Leisure,2025-10-03T15:15,25,Park,Watch a movie (new) [a698],Casual evening activity,Low,Park
+Work,2025-09-28T10:45,60,Work,Address payroll error,Time-critical fix — DEADLINE,High,Work
+Gym,2025-09-29T16:15,120,Gym,Plan deload week,Reduce volume; recovery focus,Medium,Gym
+Work,2025-10-07T22:00,165,Work,Vendor contract signature,Deadline for pricing lock,High,Work
+Work,2025-09-25T16:45,120,Work,Submit quarterly report (client B),Urgent deadline; compile metrics and email leadership,High,Park
+Work,2025-10-03T09:00,75,Work,Organize team calendar,Recurring events; holidays,Medium,Work
+Work,2025-09-27T21:30,120,Work,Respond to legal request (final pass),Deadline-sensitive data pull — ASAP,High,Work
+Work,2025-10-06T09:00,45,Work,Document API usage (v1),Write examples and tips,Medium,Work
+Work,2025-10-04T11:15,165,Work,Prepare RFP response,Strict deadline; compile sections,High,Work
+Work,2025-09-26T13:00,165,Work,Finalize contract redlines,Client waiting; legal review needed,High,Work
+Home,2025-10-08T06:30,120,Home,Prepare weekly meal plan (v1),List recipes and ingredients,Medium,Home
+Home,2025-10-03T21:45,30,Home,Wipe counters (rainy day),Basic cleaning,Low,Home
+Work,2025-10-06T07:45,165,Work,Restore failing backup,Data at risk; take action — ASAP,High,Work
+Leisure,2025-10-02T22:45,50,Home,Watch a movie,Casual evening activity,Low,Clinic
+Work,2025-10-05T16:15,60,Work,Interview candidate loop (client B),Multiple back-to-back interviews — DEADLINE,High,Work
+Work,2025-10-03T16:15,120,Work,Draft crisis statement,Leadership review ASAP,High,Park
+Gym,2025-10-03T16:45,75,Gym,Update training log,Record progress; adjust plan,Medium,Gym
+Leisure,2025-10-08T14:00,35,Park,Organize music playlist,Add and reorder songs,Low,Park
+Work,2025-10-09T18:45,165,Work,Migrate critical database,Scheduled downtime; follow runbook,High,Work
+Leisure,2025-09-27T16:30,55,Park,Play casual video game (low energy),Short gaming session,Low,Gym
+Work,2025-10-04T20:30,60,Work,Organize project tasks (draft),Groom backlog; prioritize for sprint,Medium,Park
+Home,2025-09-25T08:30,90,Home,Set up backup drive (revision),Schedule weekly backups,Medium,Home
+Work,2025-10-03T16:30,180,Work,Interview candidate loop (EOD),Multiple back-to-back interviews,High,Supermarket
+Work,2025-10-09T08:30,90,Work,Hot customer demo,Must run flawlessly; final rehearsal — CRITICAL,High,Work
+Work,2025-10-06T12:45,150,Work,Respond to media inquiry,Rapid turnaround needed,High,Work
+Work,2025-10-02T07:00,105,Work,Document API usage (revision),Write examples and tips,Medium,Work
+Work,2025-10-01T09:00,90,Clinic,Emergency doctor appointment (client B),Sudden symptoms; urgent check-up,High,Clinic
+Work,2025-09-29T09:15,25,Work,Document API usage,Write examples and tips,Medium,Gym
+Work,2025-10-06T12:30,180,Work,Interview candidate loop (client B) [8103],Multiple back-to-back interviews — URGENT,High,Clinic
+Work,2025-09-28T11:00,180,Work,Migrate critical database (final pass),Scheduled downtime; follow runbook — URGENT,High,Work
+Leisure,2025-10-05T20:00,50,Home,Play casual video game,Short gaming session,Low,Home
+Work,2025-10-04T08:30,75,Other,Prepare launch comms,Coordinate with PR; embargo lifts — ASAP,High,Supermarket
+Leisure,2025-10-06T19:15,40,Home,Journal for 10 minutes,Reflect on day,Low,Gym
+Home,2025-10-08T10:00,105,Home,Organize bookshelf (Q2),By genre/author,Medium,Home
+Leisure,2025-10-06T15:45,45,Park,Practice sketching (rainy day),Light creative activity,Low,Park
+Work,2025-09-28T07:30,45,Work,Refactor helper module,Non-urgent cleanup,Medium,Work
+Work,2025-09-30T11:45,135,Work,Organize project tasks,Groom backlog; prioritize for sprint,Medium,Park
+Work,2025-09-30T10:00,150,Work,Customer escalation call,Key account; urgent mitigation plan,High,Work
+Work,2025-10-06T11:00,120,Work,Regulatory compliance filing (v2),Submit documents before cutoff — ASAP,High,Work
+Work,2025-09-25T20:45,120,Work,Interview candidate loop,Multiple back-to-back interviews — DEADLINE,High,Work
+Work,2025-09-27T15:00,135,Work,Incident postmortem write-up,Leadership review today — DEADLINE,High,Work
+Leisure,2025-10-08T11:45,30,Home,Try a puzzle app,Casual play,Low,Home
+Leisure,2025-09-29T11:15,30,Other,Meditate,Short mindfulness session,Low,Supermarket
+Home,2025-10-04T16:30,60,Home,Organize junk drawer,Quick declutter,Low,Home
+Home,2025-09-30T21:00,45,Home,Plan family budget,Update categories; review subscriptions,Medium,Home
+Home,2025-09-25T20:30,20,Home,Water plants,Routine maintenance,Low,Home
+Other,2025-10-04T07:30,40,Other,Call a friend,Catch up call,Low,Other
+Supermarket,2025-10-03T08:00,120,Supermarket,Plan grocery list (Q2),Check pantry; note essentials,Medium,Supermarket
+Work,2025-09-26T22:30,120,Work,Regulatory compliance filing (final pass),Submit documents before cutoff,High,Work
+Work,2025-09-30T20:00,180,Work,Finalize presentation deck for client (v2),Deadline today—review and submit to manager ASAP — ASAP,High,Work
+Work,2025-10-01T08:30,60,Work,Review non-critical PRs,Provide feedback; merge later,Medium,Work
+Home,2025-09-27T19:15,135,Home,Organize tax documents (revision),Sort receipts; prep for filing next month,Medium,Home
+Leisure,2025-10-04T10:45,25,Other,Practice sketching,Light creative activity,Low,Other
+Gym,2025-10-01T15:30,20,Gym,Plan next week’s workouts,Focus on balance and recovery,Medium,Work
+Home,2025-09-30T15:15,55,Home,Plan minor repairs,List tasks; estimate cost,Medium,Clinic
+Supermarket,2025-09-26T07:45,60,Supermarket,Plan grocery list,Check pantry; note essentials,Medium,Supermarket
+Work,2025-10-04T15:00,120,Other,Fix production bug,Critical issue affecting users; ship hotfix,High,Other
+Leisure,2025-10-06T21:30,20,Other,Read a novel chapter (new),Relax and unwind,Low,Work
+Other,2025-09-30T17:15,40,Other,Declutter one drawer (new),Light tidy-up,Low,Other
+Leisure,2025-10-03T15:15,15,Home,Read a novel chapter (low energy),Relax and unwind,Low,Home
+Home,2025-09-25T18:15,60,Home,Sort photo library (revision),Remove duplicates; add albums,Medium,Home
+Work,2025-10-05T08:30,120,Work,Respond to legal request,Deadline-sensitive data pull — URGENT,High,Work
+Work,2025-09-27T07:45,135,Work,Create onboarding checklist,For new team members,Medium,Work
+Other,2025-09-30T22:00,45,Other,Declutter one drawer (rainy day),Light tidy-up,Low,Work
+Work,2025-10-07T20:15,55,Work,Organize design files,"Name, tag, and archive",Medium,Gym
+Leisure,2025-09-30T10:15,15,Other,Play casual video game (bonus),Short gaming session,Low,Home
+Home,2025-10-06T16:00,50,Home,Fold laundry (bonus),Quick fold session,Low,Supermarket
+Work,2025-10-06T15:45,120,Clinic,Urgent lab results follow-up (client B),Doctor requested immediate consult — URGENT,High,Clinic
+Home,2025-10-08T20:45,55,Home,Reorganize closet (v1),"Sort, donate, label boxes",Medium,Supermarket
+Work,2025-10-02T17:00,150,Work,Finalize budget reforecast (client A),Finance needs by EOD — DEADLINE,High,Work
+Leisure,2025-10-03T16:15,15,Home,Do a crossword,Light brain teaser,Low,Home
+Work,2025-10-08T07:30,60,Other,Refactor helper module (Q2),Non-urgent cleanup,Medium,Other
+Work,2025-10-06T16:00,135,Work,Ship patch release,QA sign-off; push to prod — ASAP,High,Park
+Home,2025-09-27T15:15,20,Home,Organize study notes,File by topic; make index,Medium,Home
+Work,2025-09-29T19:45,165,Work,Fix showstopper QA defect,Blocks release candidate — DEADLINE,High,Work
+Leisure,2025-10-06T11:15,50,Home,Watch cooking reels,Inspiration only,Low,Home
+Work,2025-09-30T17:00,150,Clinic,Pre-op clearance appointment,Time-sensitive medical evaluation — CRITICAL,High,Home
+Work,2025-10-06T16:30,75,Work,Prepare grant submission (final pass),Hard deadline; ensure attachments — DEADLINE,High,Gym
+Work,2025-10-08T06:15,120,Work,Finalize presentation deck for client,Deadline today—review and submit to manager ASAP — ASAP,High,Work
+Work,2025-10-04T10:45,180,Work,Hotfix CI pipeline (client A),Builds failing; release blocked — TODAY,High,Gym
+Work,2025-09-26T17:15,180,Clinic,Emergency doctor appointment,Sudden symptoms; urgent check-up,High,Clinic
+Work,2025-09-27T17:15,120,Work,Prepare demo script,Outline flow; gather sample data,Medium,Other
+Other,2025-10-07T11:15,60,Other,Browse new apps,Explore app store,Low,Other
+Leisure,2025-10-08T22:15,15,Other,Watch highlights (cozy),Sports recap,Low,Other
+Leisure,2025-09-29T20:15,55,Home,Learn a magic trick,Just for fun,Low,Gym
+Home,2025-09-30T06:00,120,Home,Plan garden layout,Sketch beds; choose plants,Medium,Home
+Work,2025-09-30T17:15,60,Work,Review vendor options,Compare pricing; shortlist,Medium,Clinic
+Work,2025-10-09T08:45,135,Work,Draft proposal outline,Important but not urgent; prepare structure for next week,Medium,Other
+Park,2025-09-26T13:15,55,Park,Casual picnic,Relax outdoors,Low,Home
+Leisure,2025-09-27T13:30,15,Park,Take a walk in park (new),Light stroll,Low,Park
+Park,2025-10-09T15:00,20,Park,Casual bike ride,Leisurely pace,Low,Park
+Work,2025-10-02T11:00,105,Work,Patch security vulnerability,CVE noted; immediate patch — CRITICAL,High,Work
+Supermarket,2025-10-05T09:15,15,Supermarket,Plan grocery list (Q2) [b9bd],Check pantry; note essentials,Medium,Supermarket
+Home,2025-09-25T18:00,20,Home,Take out trash,Regular chore,Low,Work
+Work,2025-10-03T19:00,120,Work,Hotfix CI pipeline,Builds failing; release blocked,High,Work
+Leisure,2025-10-08T10:15,45,Home,Organize music playlist (rainy day),Add and reorder songs,Low,Home
+Leisure,2025-10-02T07:45,15,Other,Listen to podcast (cozy),Background while relaxing,Low,Other
+Leisure,2025-10-09T18:45,25,Park,Take a walk in park (cozy) [c2aa],Light stroll,Low,Clinic
+Work,2025-09-30T14:00,30,Work,Draft Q&A for webinar (revision),Prepare likely questions,Medium,Work
+Work,2025-09-25T20:15,75,Work,Draft proposal outline (Q2),Important but not urgent; prepare structure for next week,Medium,Home
+Work,2025-10-07T07:45,60,Work,Security incident response (final pass),Escalated priority; coordinate with SecOps — DEADLINE,High,Other
+Other,2025-10-04T10:30,60,Other,Watch tutorial video,Learn something small,Low,Gym
+Work,2025-10-05T18:15,75,Work,Organize design files (v1),"Name, tag, and archive",Medium,Work
+Home,2025-10-09T21:45,30,Home,Sweep porch (low energy),Quick sweep,Low,Home
+Work,2025-10-02T07:45,150,Work,Prepare board meeting brief (client A),Finalize slides; last-minute changes expected — DEADLINE,High,Work
+Work,2025-10-08T08:00,60,Clinic,Urgent lab results follow-up (v2),Doctor requested immediate consult — CRITICAL,High,Clinic
+Leisure,2025-10-05T07:00,55,Home,Practice ukulele,Short session,Low,Clinic
+Home,2025-10-06T18:00,90,Home,Prepare weekly meal plan,List recipes and ingredients,Medium,Home
+Home,2025-10-04T09:45,15,Home,Organize bookshelf,By genre/author,Medium,Home
+Home,2025-09-30T15:00,15,Home,Set up backup drive,Schedule weekly backups,Medium,Home
+Work,2025-09-29T16:45,90,Work,Prepare knowledge base article,Outline steps; add screenshots,Medium,Work
+Home,2025-10-01T20:00,105,Home,Organize tax documents (draft),Sort receipts; prep for filing next month,Medium,Home
+Home,2025-10-06T17:45,50,Home,Prepare guest room,Fresh linens and tidy-up,Medium,Home
+Home,2025-10-07T12:00,40,Home,Sweep porch,Quick sweep,Low,Home
+Gym,2025-10-06T21:45,105,Gym,Research mobility routines,Add to warmup,Medium,Clinic
+Other,2025-09-26T17:30,60,Other,Watch tutorial video (cozy),Learn something small,Low,Other
+Work,2025-10-04T07:45,120,Work,Finalize presentation deck for client (final pass),Deadline today—review and submit to manager ASAP — URGENT,High,Gym
+Leisure,2025-10-09T15:15,20,Park,Watch a movie (cozy),Casual evening activity,Low,Gym
+Work,2025-09-27T16:45,120,Other,Finalize budget reforecast,Finance needs by EOD — CRITICAL,High,Other
+Home,2025-09-29T10:45,40,Home,Prepare weekly meal plan (Q2),List recipes and ingredients,Medium,Home
+Home,2025-10-09T22:30,15,Home,Take out trash (bonus),Regular chore,Low,Home
+Home,2025-10-09T16:15,20,Home,Wipe counters,Basic cleaning,Low,Clinic
+Work,2025-10-04T12:45,135,Work,Code review for release (client A),Time-sensitive; unblock deployment — CRITICAL,High,Work
+Home,2025-09-28T16:00,105,Home,Prepare weekly meal plan (outline),List recipes and ingredients,Medium,Home
+Work,2025-09-28T08:00,150,Work,Finalize presentation deck for client (priority),Deadline today—review and submit to manager ASAP — TODAY,High,Work
+Home,2025-10-02T22:30,105,Home,Draft party plan,"Guests, food, music",Medium,Home
+Work,2025-10-04T18:45,120,Other,Finalize budget reforecast (client B),Finance needs by EOD — URGENT,High,Gym
+Leisure,2025-10-06T14:15,45,Park,Browse social media,Catch up on friends,Low,Park
+Home,2025-09-27T20:00,60,Home,Organize tax documents (v1),Sort receipts; prep for filing next month,Medium,Work
+Work,2025-10-02T20:15,120,Work,Draft Q&A for webinar (Q2),Prepare likely questions,Medium,Work
+Work,2025-10-08T13:15,135,Work,Prepare team retro notes (revision),Summarize lessons; share with team,Medium,Work
+Work,2025-09-30T12:30,150,Work,Finalize product roadmap,Leadership sign-off today — CRITICAL,High,Home
+Work,2025-10-02T14:00,120,Work,Submit quarterly report,Urgent deadline; compile metrics and email leadership,High,Work
+Work,2025-10-09T18:00,90,Work,Prepare team retro notes,Summarize lessons; share with team,Medium,Supermarket
+Home,2025-10-03T06:30,35,Home,Vacuum one room,Light tidy-up,Low,Home
+Other,2025-10-06T22:30,45,Other,Backup photos to cloud,Optional task,Low,Other
+Other,2025-10-06T20:30,25,Other,Declutter one drawer,Light tidy-up,Low,Other
+Leisure,2025-09-30T13:30,20,Other,Try new recipe (fun),No rush; experiment,Low,Home
+Work,2025-10-06T17:45,120,Work,Production access audit,Compliance deadline today,High,Park
+Work,2025-09-26T08:00,120,Work,Security incident response,Escalated priority; coordinate with SecOps — ASAP,High,Work
+Home,2025-10-01T07:15,105,Home,Plan garden layout (Q2),Sketch beds; choose plants,Medium,Home
+Leisure,2025-10-02T07:00,25,Other,Listen to podcast,Background while relaxing,Low,Other
+Home,2025-09-25T17:45,75,Home,Organize tax documents,Sort receipts; prep for filing next month,Medium,Other
+Leisure,2025-10-03T11:45,45,Park,Meditate (low energy),Short mindfulness session,Low,Park
+Work,2025-10-01T18:30,120,Work,Prepare grant submission (client B),Hard deadline; ensure attachments,High,Work
+Work,2025-09-27T09:45,60,Work,Prepare onboarding slides,Refresh branding; add links,Medium,Work
+Work,2025-09-25T08:00,180,Work,Code review for release,Time-sensitive; unblock deployment,High,Work
+Park,2025-09-29T16:00,40,Park,Casual picnic (bonus),Relax outdoors,Low,Park
+Leisure,2025-09-28T21:30,60,Park,Organize music playlist (new),Add and reorder songs,Low,Home
+Work,2025-09-25T17:00,165,Work,Customer escalation call (final pass),Key account; urgent mitigation plan,High,Work
+Leisure,2025-09-28T16:45,50,Home,Organize music playlist (bonus),Add and reorder songs,Low,Home
+Work,2025-09-28T21:15,165,Work,Prepare grant submission (EOD),Hard deadline; ensure attachments — URGENT,High,Park
+Leisure,2025-09-30T16:15,50,Home,Read a novel chapter,Relax and unwind,Low,Home
+Work,2025-10-03T19:00,135,Work,Draft performance goals,Outline objectives for quarter,Medium,Work
+Work,2025-10-08T11:30,60,Work,Submit quarterly report (v2),Urgent deadline; compile metrics and email leadership,High,Gym
+Home,2025-10-09T11:45,15,Home,Organize junk drawer (low energy),Quick declutter,Low,Home
+Work,2025-10-05T18:30,25,Work,Organize design files (draft),"Name, tag, and archive",Medium,Work
+Home,2025-10-02T11:15,60,Home,Assemble donation box (revision),Clothes and books,Medium,Supermarket
+Work,2025-10-01T22:15,180,Clinic,Urgent lab results follow-up,Doctor requested immediate consult — CRITICAL,High,Clinic
+Leisure,2025-10-06T21:00,20,Other,Listen to new album,Background music,Low,Other
+Gym,2025-10-02T14:15,60,Gym,Update training log (draft),Record progress; adjust plan,Medium,Home
+Home,2025-10-09T22:45,105,Home,Plan garden layout (draft),Sketch beds; choose plants,Medium,Home
+Other,2025-10-08T19:45,25,Other,Browse new apps (rainy day),Explore app store,Low,Other
+Work,2025-09-25T08:15,120,Work,Regulatory compliance filing,Submit documents before cutoff — DEADLINE,High,Work
+Work,2025-09-26T06:30,90,Work,Prepare grant submission,Hard deadline; ensure attachments,High,Supermarket
+Work,2025-10-07T17:00,55,Work,Organize project tasks (Q2),Groom backlog; prioritize for sprint,Medium,Work
+Work,2025-09-27T17:30,105,Work,Organize project tasks (draft) [77bf],Groom backlog; prioritize for sprint,Medium,Work
+Work,2025-10-05T14:30,75,Work,Submit quarterly report (priority),Urgent deadline; compile metrics and email leadership,High,Work
+Other,2025-10-09T22:15,15,Other,Call a friend (cozy),Catch up call,Low,Other
+Leisure,2025-10-07T20:15,50,Park,Take a walk in park (cozy),Light stroll,Low,Other
+Leisure,2025-09-30T14:00,45,Park,Watch a movie (new),Casual evening activity,Low,Park
+Work,2025-09-30T19:00,20,Work,Prepare demo script (Q2),Outline flow; gather sample data,Medium,Work
+Leisure,2025-09-30T08:00,15,Other,Watch highlights,Sports recap,Low,Other
+Work,2025-10-09T06:15,135,Work,Review documentation,Correct minor inaccuracies,Medium,Work
+Home,2025-09-30T19:45,60,Home,Prepare guest room (revision),Fresh linens and tidy-up,Medium,Home
+Work,2025-10-07T22:30,165,Work,Ship patch release (priority),QA sign-off; push to prod — CRITICAL,High,Work
+Work,2025-10-05T06:15,75,Work,Hotfix CI pipeline (v2),Builds failing; release blocked — DEADLINE,High,Work
+Home,2025-10-05T22:45,30,Home,Water plants (rainy day),Routine maintenance,Low,Clinic
+Work,2025-10-06T07:30,75,Other,Finalize hiring decision,Extend offer; notify recruiting — DEADLINE,High,Other
+Work,2025-10-05T20:45,150,Work,Migrate critical database (client B),Scheduled downtime; follow runbook,High,Work
+Work,2025-10-05T22:15,55,Work,Review documentation (revision),Correct minor inaccuracies,Medium,Work
+Home,2025-09-28T07:45,40,Home,Tidy desk,Quick cleanup,Low,Home
+Work,2025-09-27T19:30,75,Work,Migrate critical database (v2),Scheduled downtime; follow runbook — CRITICAL,High,Work
+Home,2025-09-25T12:45,35,Home,Sweep porch (rainy day),Quick sweep,Low,Home
+Other,2025-10-08T21:45,60,Other,Browse new apps (low energy),Explore app store,Low,Gym
+Home,2025-09-25T12:45,120,Home,Sort photo library,Remove duplicates; add albums,Medium,Home
+Home,2025-10-04T07:45,90,Home,Plan garden layout (revision),Sketch beds; choose plants,Medium,Home
