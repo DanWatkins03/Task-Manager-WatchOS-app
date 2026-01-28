@@ -1,6 +1,6 @@
 # Task-Manager-WatchOS-app
 
-AI-Assisted Task Manager application designed and built for the Apple Watch with SwiftUI. This applicaiton eables users to create, manage, and prioritise tasks directly from their Apple Watch. The app integrates **on-device machine learning** to intelligently rank tasks by its priority based on contextual data, while maintaing a lightweight, responsive UI that addresses the usability constraints from a wearable device.
+AI-Assisted Task Manager application designed and built for the Apple Watch with SwiftUI. This applicaiton enables users to create, manage, and prioritise tasks directly from their Apple Watch. The app integrates **on-device machine learning** to intelligently rank tasks by its priority based on contextual data, while maintaing a lightweight, responsive UI that addresses the usability constraints from a wearable device.
 
 ## Key Features
 - Task creation, viewing, and editing using a SwiftUI interface
