@@ -19,7 +19,7 @@ AI-Assisted Task Manager application designed and built for the Apple Watch with
 
 <p float="left">
   <img src="Screenshots/ThemeEditor.png" width="260" />
-  <img src="Screenshots/TaskSuggestion.png)" width="260" />
+  <img src="Screenshots/TaskSuggestion.png" width="260" />
 </p>
 
 ## Architecture & Design
