@@ -12,6 +12,10 @@ AI-Assisted Task Manager application designed and built for the Apple Watch with
 
 ## Screenshots
 ![Main Menu](Screenshots/MainMenu.png)
+![CreateTask](Screenshots/CreateTask.png)
+![ViewTasks](Screenshots/ViewTasks.png)
+[!ThemeEditor](Screenshots/ThemeEditor.png)
+[!TaskSuggestion](Screenshots/TaskSuggestion.png)
 
 ## Architecture & Design
 The following architecture follows a clear seperation of responsibilites inspired by the MVVM principles:
