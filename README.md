@@ -12,3 +12,8 @@ AI-Assisted Task Manager application designed and built for the Apple Watch with
 
 ## Architecture & Design
 
+## Academic Context
+This project was originally developed as part of my **MSc Advanced Computer Science** dissertation. The code and documentation found here has been adapted and cleaned up for portfolio use.
+
+## License
+This project is provided for portfolio and educational purposes.
