@@ -10,6 +10,9 @@ AI-Assisted Task Manager application designed and built for the Apple Watch with
 - Focus mode and configurable themes
 - Designed to address the usability constraints found through WatchOS
 
+## Screenshots
+![Main Menu](Screenshots/MainMenu.png)
+
 ## Architecture & Design
 The following architecture follows a clear seperation of responsibilites inspired by the MVVM principles:
 - **Views:** SwiftUI views handle all the UI rendering and state changes
