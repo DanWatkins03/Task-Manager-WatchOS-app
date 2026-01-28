@@ -11,6 +11,24 @@ AI-Assisted Task Manager application designed and built for the Apple Watch with
 - Designed to address the usability constraints found through WatchOS
 
 ## Architecture & Design
+The following architecture follows a clear seperation of responsibilites inspired by the MVVM principles:
+- **Views:** SwiftUI views handle all the UI rendering and state changes
+- **Models:** Models created in Python are converted to CoreML
+-  **Logic*:* - CoreMLp rediction handled by a dedicated preditor class, Voice input parsing and feature extraction isolated from UI logic.
+
+## Machine Learning & AI Integration:
+- ML models are trained in Python and deployed using CoreML
+- Feature encoding coverts task metadata into model ready inputs
+- Predictions performed locally on device, avoiding user privacy and latency constraints
+
+## Tech Stack
+- SwiftUI
+- Watchos
+- CoreML
+- NaturalLanguage
+- Python
+- PyTorch
+- JSON presistence
 
 ## Academic Context
 This project was originally developed as part of my **MSc Advanced Computer Science** dissertation. The code and documentation found here has been adapted and cleaned up for portfolio use.
